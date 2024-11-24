@@ -60,7 +60,7 @@ Eu adoro contribuir para projetos open-source, estudar novas tecnologias e compa
 Sinta-se à vontade para me seguir, enviar uma mensagem ou colaborar em projetos. Sempre estou aberta para aprender e crescer juntos com a comunidade!
 
 - **GitHub**: [@niqueborges](https://github.com/niqueborges)
-- **LinkedIn**: [Monique Borges](https://www.linkedin.com/in/monique-borges/)
+- **LinkedIn**: [Monique Borges](https://www.linkedin.com/in/moniquesborges/)
 
 
   
