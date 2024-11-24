@@ -1,8 +1,16 @@
-# Olá, sou Monique Borges! 👩‍💻
+# **Olá, sou Monique Borges! 👩‍💻**
 
 Seja bem-vindo(a) ao meu perfil! Aqui você vai encontrar o que estou estudando, as tecnologias que estou explorando e alguns dos meus projetos. Vamos aprender juntos! 😊
 
-## 🚀 O que estou aprendendo
+## **📬 Contato**
+
+Se você tiver dúvidas ou sugestões, entre em contato com a responsável pelo repositório:
+
+- **Responsável pelo repositório**: [Monique da Silva Borges]  
+- **E-mail**: [monique.borges1@gmail.com]  
+
+
+## **🚀 O que estou aprendendo**
 
 Atualmente, estou focada em estudar e aplicar novas tecnologias no desenvolvimento web e programação. Algumas das linguagens e ferramentas que estou usando incluem:
 
@@ -12,7 +20,7 @@ Atualmente, estou focada em estudar e aplicar novas tecnologias no desenvolvimen
 
 Além disso, estou me aprofundando em tecnologias de backend e infraestrutura, como **Node.js**, **AWS** e **Docker**.
 
-## 📊 Minhas Estatísticas GitHub
+## **📊 Minhas Estatísticas GitHub**
 
 Aqui você pode ver um resumo do meu progresso no GitHub, incluindo meus repositórios mais populares e minhas contribuições recentes:
 
@@ -25,18 +33,18 @@ Aqui você pode ver um resumo do meu progresso no GitHub, incluindo meus reposit
   </a>
 </div>
 
-## 🛠️ Tecnologias e Ferramentas que uso
+## **🛠️ Tecnologias e Ferramentas que uso**
 
 Aqui estão algumas das ferramentas e tecnologias que tenho explorado e usando nos meus projetos:
 
-### Frontend:
+### **Frontend:**
 <div style="display: inline_block"><br>
   <img align="center" alt="Nique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-### Backend e Ferramentas de Desenvolvimento:
+### **Backend e Ferramentas de Desenvolvimento:**
 <div><br>
   <img align="center" alt="Nique-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Nique-Node" height="30" width="40" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
@@ -44,7 +52,7 @@ Aqui estão algumas das ferramentas e tecnologias que tenho explorado e usando n
   <img align="center" alt="Nique-Docker" height="30" width="40" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 </div>
 
-## 📈 GitHub Activity
+## **📈 GitHub Activity**
 
 Eu adoro contribuir para projetos open-source, estudar novas tecnologias e compartilhar minhas ideias com a comunidade! Aqui estão algumas estatísticas que mostram minha atividade recente no GitHub:
 
@@ -56,7 +64,7 @@ Eu adoro contribuir para projetos open-source, estudar novas tecnologias e compa
 
 > “A jornada de aprendizado é constante e cheia de desafios. Mas é o que torna a programação tão empolgante!”
 
-## 🔗 Vamos nos conectar!
+## **🔗 Vamos nos conectar!**
 Sinta-se à vontade para me seguir, enviar uma mensagem ou colaborar em projetos. Sempre estou aberta para aprender e crescer juntos com a comunidade!
 
 - **GitHub**: [@niqueborges](https://github.com/niqueborges)
