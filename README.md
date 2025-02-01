@@ -52,20 +52,7 @@ Aqui estão algumas das ferramentas e tecnologias que tenho explorado e usando n
   <img align="center" alt="Nique-COBOL" height="30" width="40" src="https://img.shields.io/badge/COBOL-%23007ACC.svg?style=for-the-badge&logo=coffeescript&logoColor=white">
 </div>
 
-## **📈 GitHub Activity**
-
-Eu adoro contribuir para projetos open-source, estudar novas tecnologias e compartilhar minhas ideias com a comunidade! Aqui estão algumas estatísticas que mostram minha atividade recente no GitHub:
-
-- 🚀 Contribuições diárias
-- 🛠️ Repositórios ativos
-- 📚 Projetos e estudos contínuos
-
 ---
-
-> “A jornada de aprendizado é constante e cheia de desafios. Mas é o que torna a programação tão empolgante!”
-
-## **🔗 Vamos nos conectar!**
-Sinta-se à vontade para me seguir, enviar uma mensagem ou colaborar em projetos. Sempre estou aberta para aprender e crescer juntos com a comunidade!
 
 - **GitHub**: [@niqueborges](https://github.com/niqueborges)
 - **LinkedIn**: [Monique Borges](https://www.linkedin.com/in/moniquesborges/)
