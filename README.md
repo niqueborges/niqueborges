@@ -17,7 +17,7 @@ Atualmente, estou focada em estudar e aplicar novas tecnologias no desenvolvimen
 - **HTML5** e **CSS3** para estruturar e estilizar sites incríveis.
 - **Python**, uma linguagem poderosa que estou usando para projetos de automação e análise de dados.
 
-Além disso, estou me aprofundando em tecnologias de backend e infraestrutura, como **Node.js**, **AWS**, **Docker** e **COBOL**.
+Além disso, estou me aprofundando em tecnologias de backend e infraestrutura, como **Node.js**, **AWS**, **Docker**.
 
 ## **📊 Minhas Estatísticas GitHub**
 
@@ -49,7 +49,6 @@ Aqui estão algumas das ferramentas e tecnologias que tenho explorado e usando n
   <img align="center" alt="Nique-Node" height="30" width="40" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="Nique-AWS" height="30" width="40" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img align="center" alt="Nique-Docker" height="30" width="40" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-  <img align="center" alt="Nique-COBOL" height="30" width="40" src="https://img.shields.io/badge/COBOL-%23007ACC.svg?style=for-the-badge&logo=coffeescript&logoColor=white">
 </div>
 
 ---
