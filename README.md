@@ -17,7 +17,7 @@ Atualmente, estou focada em estudar e aplicar novas tecnologias no desenvolvimen
 - **HTML5** e **CSS3** para estruturar e estilizar sites incríveis.
 - **Python**, uma linguagem poderosa que estou usando para projetos de automação e análise de dados.
 
-Além disso, estou me aprofundando em tecnologias de backend e infraestrutura, como **Node.js**, **AWS**, **Docker**.
+Além disso, estou me aprofundando em tecnologias de backend e infraestrutura, como **Node.js**, **AWS**, **Docker**, e também explorando o desenvolvimento mobile com **React Native**.
 
 ## **📊 Minhas Estatísticas GitHub**
 
@@ -41,6 +41,7 @@ Aqui estão algumas das ferramentas e tecnologias que tenho explorado e usando n
   <img align="center" alt="Nique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Nique-ReactNative" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <!-- Adicionando React Native -->
 </div>
 
 ### **Backend e Ferramentas de Desenvolvimento:**
