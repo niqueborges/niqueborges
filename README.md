@@ -1,27 +1,55 @@
-# **Olá, sou Monique Borges! 👩‍💻**
+# 👋 Olá, sou Monique Borges!
 
-Seja bem-vindo(a) ao meu perfil! Aqui você vai encontrar o que estou estudando, as tecnologias que estou explorando e alguns dos meus projetos. Vamos aprender juntos! 😊
+Seja muito bem-vindo(a) ao meu perfil!  
+Aqui você vai encontrar o que estou estudando, as tecnologias que venho explorando e os projetos que estou desenvolvendo com muito empenho.  😊
 
-## **📬 Contato**
+---
 
-Se você tiver dúvidas ou sugestões, entre em contato com a responsável pelo repositório:
+## 📚 Atualmente estudando
 
-- **Responsável pelo repositório**: [Monique da Silva Borges]  
-- **E-mail**: [monique.borges1@gmail.com]  
+Atualmente, estou focada em desenvolvimento **web**, **backend**, **automação** e **projetos em Java**. Estas são algumas das linguagens e ferramentas que estou explorando:
 
-## **🚀 O que estou aprendendo**
+- **Java**: desenvolvendo projetos práticos e estruturados com foco em orientação a objetos, organização de código e boas práticas.
+- **JavaScript**: aplicando lógica e interatividade em aplicações web.
+- **HTML5** e **CSS3**: estruturando e estilizando sites modernos e responsivos.
+- **Python**: para scripts de automação e análise de dados.
+- **Node.js**, **AWS** e **Docker**: estudando backend, infraestrutura e deploy de aplicações.
+- **React Native**: explorando desenvolvimento mobile.
 
-Atualmente, estou focada em estudar e aplicar novas tecnologias no desenvolvimento web e programação. Algumas das linguagens e ferramentas que estou usando incluem:
+---
 
-- **JavaScript** para criar interatividade e lógica nas minhas aplicações.
-- **HTML5** e **CSS3** para estruturar e estilizar sites incríveis.
-- **Python**, uma linguagem poderosa que estou usando para projetos de automação e análise de dados.
+## 🧰 Tecnologias e Ferramentas
 
-Além disso, estou me aprofundando em tecnologias de backend e infraestrutura, como **Node.js**, **AWS**, **Docker**, e também explorando o desenvolvimento mobile com **React Native**.
+### 💻 Frontend
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="ReactNative" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
 
-## **📊 Minhas Estatísticas GitHub**
+### 🖥️ Backend e Infraestrutura
+<div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+</div>
 
-Aqui você pode ver um resumo do meu progresso no GitHub, incluindo meus repositórios mais populares e minhas contribuições recentes:
+---
+
+## 📬 Contato
+
+Se quiser bater um papo, tirar dúvidas ou sugerir melhorias, fique à vontade para me procurar:
+
+- **📧 E-mail**: [monique.borges1@gmail.com](mailto:monique.borges1@gmail.com)  
+- **🔗 GitHub**: [@niqueborges](https://github.com/niqueborges)  
+- **💼 LinkedIn**: [Monique Borges](https://www.linkedin.com/in/moniquesborges/)
+
+---
+
+## 📊 Estatísticas GitHub
 
 <div>
   <a href="https://github.com/niqueborges">
@@ -32,29 +60,7 @@ Aqui você pode ver um resumo do meu progresso no GitHub, incluindo meus reposit
   </a>
 </div>
 
-## **🛠️ Tecnologias e Ferramentas que uso**
-
-Aqui estão algumas das ferramentas e tecnologias que tenho explorado e usando nos meus projetos:
-
-### **Frontend:**
-<div style="display: inline_block"><br>
-  <img align="center" alt="Nique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Nique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Nique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Nique-ReactNative" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <!-- Adicionando React Native -->
-</div>
-
-### **Backend e Ferramentas de Desenvolvimento:**
-<div><br>
-  <img align="center" alt="Nique-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Nique-Node" height="30" width="40" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img align="center" alt="Nique-AWS" height="30" width="40" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img align="center" alt="Nique-Docker" height="30" width="40" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-</div>
-
 ---
 
-- **GitHub**: [@niqueborges](https://github.com/niqueborges)
-- **LinkedIn**: [Monique Borges](https://www.linkedin.com/in/moniquesborges/)
+> _"Aprender é como remar contra a maré: se parar, você volta."_ 🚣‍♀️  
 
----
