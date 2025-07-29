@@ -54,14 +54,15 @@ Se quiser bater um papo, tirar dúvidas ou sugerir melhorias, fique à vontade p
 
 <div>
   <a href="https://github.com/niqueborges">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niqueborges&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niqueborges&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800"/>
   </a>
   <a href="https://github.com/niqueborges">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niqueborges&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niqueborges&layout=compact&langs_count=7&theme=dark&cache_seconds=1800"/>
   </a>
 </div>
 
 ---
+
 
 > _"Aprender é como remar contra a maré: se parar, você volta."_ 🚣‍♀️  
 
