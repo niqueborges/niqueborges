@@ -4,9 +4,9 @@ Seja muito bem-vindo(a) ao meu perfil!
 
 ---
 
-## 📚 O que estou estudando e explorando
+## 📚 O que estudo e exploro
 
-Estou focada em desenvolvimento **backend**, **web**, **automação** e **Java**.  
+Desenvolvimento **backend**, **web**, **automação** e **Java**.  
 
 Minhas principais áreas e ferramentas atuais:
 
