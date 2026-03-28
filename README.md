@@ -1,67 +1,70 @@
-# 👋 Oi, eu sou a Monique Borges!
+# 👋 Monique Borges
 
-Seja muito bem-vindo(a) ao meu perfil!  
-
----
-
-## 📚 O que estudo e exploro
-
-Desenvolvimento **backend**, **web**, **automação** e **Java**.  
-
-Minhas principais áreas e ferramentas atuais:
-
-- **Java**: programação orientada a objetos, boas práticas e projetos estruturados.
-- **JavaScript** + **HTML5** + **CSS3**: frontend moderno, interatividade e responsividade.
-- **Python**: scripts para automação e análise de dados.
-- **Node.js**, **Docker** e **AWS**: backend, containerização e deploy em nuvem.
-- **React Native**: desenvolvimento mobile básico, ampliando horizontes.
+Desenvolvedora focada em backend, com experiência em construção de APIs, processamento de dados e aplicações com execução local e em nuvem.
 
 ---
 
-## 🧰 Tecnologias e Ferramentas que uso
+## 📌 Sobre
 
-### Frontend  
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="ReactNative" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-</div>
+Atuo no desenvolvimento de aplicações com foco em backend, explorando arquitetura de APIs, integração entre serviços e processamento de dados.
 
-### Backend e Infraestrutura  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-  <img align="center" alt="AWS" height="30" width="90" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</div>
+Tenho experiência prática com projetos que envolvem:
+- construção de APIs com Python (FastAPI)
+- manipulação e análise de dados e mídia
+- uso de serviços em nuvem (AWS) e adaptação para execução local
+- organização de código e evolução incremental de sistemas
 
 ---
 
-## 📬 Onde me achar  
+## 🧰 Tecnologias
 
-- 📧 [monique.borges1@gmail.com](mailto:monique.borges1@gmail.com)  
-- 🔗 [GitHub @niqueborges](https://github.com/niqueborges)  
-- 💼 [LinkedIn Monique Borges](https://www.linkedin.com/in/moniquesborges/)  
+**Backend**
+- Python (FastAPI)
+- Java
+- Node.js
+
+**Frontend**
+- JavaScript
+- HTML5
+- CSS3
+
+**Infraestrutura**
+- Docker
+- AWS
+
+**Outros**
+- Git e GitHub
+- SQL (SQLite)
 
 ---
 
-## 📊 Meu GitHub em números
+## 🚧 Projetos em destaque
+
+**Cloud-to-Local AI Platform**  
+Reconstrução de uma arquitetura baseada em AWS para execução local, incluindo:
+- API com FastAPI
+- CRUD de usuários com banco relacional
+- Upload e processamento de imagens
+- Detecção de rostos com OpenCV (substituindo AWS Rekognition)
+
+---
+
+## 📬 Contato
+
+- Email: monique.borges1@gmail.com  
+- GitHub: https://github.com/niqueborges  
+- LinkedIn: https://www.linkedin.com/in/moniquesborges/
+
+---
+
+## 📊 Estatísticas
 
 <div>
   <a href="https://github.com/niqueborges">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niqueborges&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niqueborges&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/niqueborges">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niqueborges&layout=compact&langs_count=7&theme=dark&cache_seconds=1800"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niqueborges&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
-
----
-
-> _"Aprender é como remar contra a maré: se parar, você volta."_ 🚣‍♀️  
-
----
- 
 
