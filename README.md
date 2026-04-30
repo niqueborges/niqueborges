@@ -20,7 +20,6 @@ Tenho experiência prática com projetos que envolvem:
 
 **Backend**
 - Python (FastAPI)
-- Java
 - Node.js
 
 **Frontend**
@@ -35,17 +34,6 @@ Tenho experiência prática com projetos que envolvem:
 **Outros**
 - Git e GitHub
 - SQL (SQLite)
-
----
-
-## 🚧 Projetos em destaque
-
-**Cloud-to-Local AI Platform**  
-Reconstrução de uma arquitetura baseada em AWS para execução local, incluindo:
-- API com FastAPI
-- CRUD de usuários com banco relacional
-- Upload e processamento de imagens
-- Detecção de rostos com OpenCV (substituindo AWS Rekognition)
 
 ---
 
