@@ -68,7 +68,3 @@ Busco oportunidades para atuar como desenvolvedora backend, contribuindo com sol
 
 > "Aprendizado contínuo, código limpo e evolução consistente."
 """
-
-path = "/mnt/data/README_GitHub_Monique_Borges.md"
-Path(path).write_text(content, encoding="utf-8")
-print(path)
