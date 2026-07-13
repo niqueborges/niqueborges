@@ -32,7 +32,6 @@ Tenho interesse em arquitetura de APIs, modelagem de dados, testes, integração
 
 ## 🚀 O que estou desenvolvendo
 
-- 🎬 **[Movie Collection App](https://github.com/niqueborges/movie-collection-fullstack)**: Uma aplicação Full-Stack completa com React, NestJS, PostgreSQL e integração em tempo real com a API pública do OMDB. Construído com UI Glassmorphism e CI/CD.
 - APIs REST escaláveis e seguras
 - Projetos com arquitetura em camadas
 - Estudos de testes automatizados e integração contínua (CI)
