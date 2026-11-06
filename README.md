@@ -1,108 +1,76 @@
-# 👋 Monique Borges
+👋 Monique Borges
 
-Desenvolvedora de software com foco em **backend e aplicações orientadas por IA**, utilizando Python, Node.js, TypeScript e tecnologias de nuvem.
 
-Desenvolvo projetos envolvendo **APIs REST, modelagem de dados, integração entre serviços, testes automatizados, CI/CD e aplicações com LLMs e RAG**.
+Desenvolvedora Backend Júnior em formação, com experiência de mais de 15 anos em suporte técnico de TI e foco no desenvolvimento de aplicações utilizando Python, JavaScript, TypeScript e Node.js.
 
-Meu foco é evoluir da implementação de código para uma visão mais completa de **engenharia de software**, considerando arquitetura, segurança, qualidade, observabilidade e os impactos do uso de IA em sistemas reais.
+Tenho interesse em desenvolvimento de APIs REST, integração entre serviços, bancos de dados, computação em nuvem e aplicações que utilizam Inteligência Artificial.
 
----
+Minha trajetória combina experiência em tecnologia da informação, desenvolvimento de projetos práticos e aprendizado contínuo em engenharia de software, buscando construir soluções com atenção à qualidade, organização, segurança e manutenção do código.
 
-## 💻 Tecnologias
-
-### Backend
-- Node.js & NestJS
-- Python & FastAPI
-- TypeScript
+💻 Tecnologias e conhecimentos
+Backend
+- Python
+- JavaScript e TypeScript
+- Node.js e NestJS
 - APIs REST
-
-### Inteligência Artificial
-- LLMs
+- Prisma
+Inteligência Artificial
+- LLMs (Large Language Models)
 - RAG (Retrieval-Augmented Generation)
 - Embeddings
 - Vector Search
+- LangChain
+- Ollama
 - Integração de modelos de linguagem em aplicações
-- Avaliação e validação de aplicações com IA
-
-### Frontend
-- React & Vite
-- JavaScript
-- HTML5 & CSS3
-
-### Banco de Dados
-- PostgreSQL
+Frontend
+- React
+- Vite
+- HTML5 e CSS3
+Banco de Dados
+- MongoDB
 - SQL
-- Prisma
-- TypeORM
-
-### Infraestrutura & DevOps
-- AWS
+- Fundamentos de modelagem e persistência de dados
+Cloud, Infraestrutura e DevOps
+- AWS: fundamentos de EC2, S3, Lambda, DynamoDB e IAM
+- AWS Bedrock: fundamentos
 - Docker
-- Git & GitHub
+- Git e GitHub
 - GitHub Actions
 - CI/CD
 
-### Engenharia de Software
-- Arquitetura em camadas
-- Princípios SOLID
-- Design Patterns
-- Testes automatizados
-- Integração entre serviços
-- Segurança de APIs
-- Documentação técnica e ADRs
+🚀 Projetos e desenvolvimento
+Tenho desenvolvido projetos práticos envolvendo:
+- Construção de APIs com Node.js, NestJS e TypeScript.
+- Desenvolvimento de aplicações com Python.
+- Integração entre serviços e bancos de dados.
+- Aplicações com LLMs, RAG e recuperação de informações.
+- Execução e experimentação de modelos de IA localmente com Ollama.
+- Testes automatizados e documentação técnica.
+- Versionamento de código e automação de fluxos de desenvolvimento.
+- Estudos de arquitetura, segurança e qualidade de software.
 
----
+📌 Projetos em destaque
+Grid Motors
+API para gerenciamento de veículos e reservas, desenvolvida com foco em organização do backend, persistência de dados, autenticação e testes.
 
-## 🚀 O que estou desenvolvendo
+Tecnologias: NestJS · TypeScript · Prisma · PostgreSQL · Docker · JWT · Swagger · Jest · GitHub Actions.
+Assistente de RH com IA
+Aplicação de consulta a documentos utilizando arquitetura RAG, embeddings e modelos de linguagem executados localmente.
 
-- APIs backend com **NestJS e FastAPI**
-- Aplicações com **LLMs e RAG**
-- Sistemas de processamento e recuperação de informações
-- Integração entre serviços Node.js e Python
-- Projetos com PostgreSQL e diferentes estratégias de persistência
-- Testes unitários, integração e E2E
-- Pipelines de CI/CD
-- Aplicações conteinerizadas com Docker
-- Estudos de segurança, observabilidade e arquitetura de sistemas
-- Uso de IA como parte do processo de desenvolvimento e validação de software
+Tecnologias: Python · Streamlit · LangChain · FAISS · Ollama · LLMs.
 
----
-
-## 🧠 Em evolução
-
+📚 Aprendizado contínuo
 Atualmente estou aprofundando meus conhecimentos em:
+- Engenharia de software e arquitetura de aplicações.
+- Desenvolvimento backend com Python e Node.js.
+- APIs REST e integração entre serviços.
+- Bancos de dados e persistência.
+- Aplicações baseadas em LLMs e RAG.
+- Segurança e avaliação de aplicações com IA.
+- AWS e computação em nuvem.
+- Docker, CI/CD e boas práticas de desenvolvimento.
 
-- Engenharia de software aplicada a sistemas com IA
-- Arquitetura de aplicações
-- RAG e sistemas baseados em LLMs
-- Avaliação e confiabilidade de aplicações de IA
-- AI Security
-- Agentes e integração com ferramentas
-- AWS e computação em nuvem
-- Observabilidade e boas práticas de produção
+🎯 Objetivo profissional
+Busco oportunidades como Desenvolvedora Backend Júnior, contribuindo com equipes de desenvolvimento na construção e evolução de aplicações, APIs e soluções orientadas a dados.
 
----
-
-## 📌 Projetos em destaque
-
-### Grid Motors
-API de gerenciamento de veículos e reservas desenvolvida com:
-
-**NestJS · TypeScript · Prisma · PostgreSQL · Docker · JWT · Swagger · Jest · GitHub Actions**
-
-Projeto desenvolvido com foco em arquitetura, autenticação, persistência, testes automatizados, documentação de API e práticas de engenharia de software.
-
-### Assistente de RH com IA
-Aplicação baseada em **RAG (Retrieval-Augmented Generation)** para consulta de documentos utilizando modelos de linguagem.
-
-**Python · RAG · Embeddings · Vector Search · LLMs**
-
-Projeto voltado ao estudo de aplicações de IA com foco em recuperação de informações, contexto e confiabilidade das respostas.
-
----
-
-## 🎯 Objetivo
-
-Busco oportunidades como **Desenvolvedora Backend / Software Engineer Júnior**, especialmente em equipes que trabalhem com APIs, dados, cloud e aplicações que utilizem IA.
-
-Meu objetivo é contribuir com desenvolvimento de software enquanto continuo aprofundando minha experiência em **arquitetura, qualidade, segurança, cloud e engenharia de aplicações com IA**.
+Quero aplicar minha experiência anterior em TI, consolidar meus conhecimentos em desenvolvimento de software e continuar evoluindo em cloud, integração de serviços e aplicações com Inteligência Artificial.
