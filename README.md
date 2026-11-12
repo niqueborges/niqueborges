@@ -1,4 +1,4 @@
-👋 Monique Borges
+👋 Monique Borges (GitHub eem manutenção e modernização dos projetos).
 
 
 Desenvolvedora Backend Júnior em formação, com experiência de mais de 15 anos em suporte técnico de TI e foco no desenvolvimento de aplicações utilizando Python, JavaScript, TypeScript e Node.js.
