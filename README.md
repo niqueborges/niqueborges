@@ -1,76 +1,43 @@
-👋 Monique Borges (GitHub eem manutenção e modernização dos projetos).
 
+# Olá! Sou Monique Borges 👋
 
-Desenvolvedora Backend Júnior em formação, com experiência de mais de 15 anos em suporte técnico de TI e foco no desenvolvimento de aplicações utilizando Python, JavaScript, TypeScript e Node.js.
+Profissional de TI com mais de 15 anos de experiência em suporte técnico e em transição para desenvolvimento de software.
 
-Tenho interesse em desenvolvimento de APIs REST, integração entre serviços, bancos de dados, computação em nuvem e aplicações que utilizam Inteligência Artificial.
+Desenvolvedora Júnior em formação, com foco em Python, JavaScript, TypeScript, Node.js, APIs REST e aplicações com Inteligência Artificial.
 
-Minha trajetória combina experiência em tecnologia da informação, desenvolvimento de projetos práticos e aprendizado contínuo em engenharia de software, buscando construir soluções com atenção à qualidade, organização, segurança e manutenção do código.
+Tenho interesse em engenharia de software, integração de serviços, bancos de dados, cloud e desenvolvimento de soluções com qualidade, segurança e manutenibilidade.
 
-💻 Tecnologias e conhecimentos
-Backend
-- Python
-- JavaScript e TypeScript
-- Node.js e NestJS
-- APIs REST
-- Prisma
-Inteligência Artificial
-- LLMs (Large Language Models)
-- RAG (Retrieval-Augmented Generation)
-- Embeddings
-- Vector Search
-- LangChain
-- Ollama
-- Integração de modelos de linguagem em aplicações
-Frontend
-- React
-- Vite
-- HTML5 e CSS3
-Banco de Dados
-- MongoDB
-- SQL
-- Fundamentos de modelagem e persistência de dados
-Cloud, Infraestrutura e DevOps
-- AWS: fundamentos de EC2, S3, Lambda, DynamoDB e IAM
-- AWS Bedrock: fundamentos
-- Docker
-- Git e GitHub
-- GitHub Actions
-- CI/CD
+## Tecnologias
 
-🚀 Projetos e desenvolvimento
-Tenho desenvolvido projetos práticos envolvendo:
-- Construção de APIs com Node.js, NestJS e TypeScript.
-- Desenvolvimento de aplicações com Python.
-- Integração entre serviços e bancos de dados.
-- Aplicações com LLMs, RAG e recuperação de informações.
-- Execução e experimentação de modelos de IA localmente com Ollama.
-- Testes automatizados e documentação técnica.
-- Versionamento de código e automação de fluxos de desenvolvimento.
-- Estudos de arquitetura, segurança e qualidade de software.
+- **Backend:** Python, JavaScript, TypeScript, Node.js, NestJS, APIs REST.
+- **Inteligência Artificial:** LLMs, RAG, Embeddings, LangChain, Ollama.
+- **Frontend:** React, Vite, HTML5 e CSS3.
+- **Banco de dados:** PostgreSQL, MongoDB, SQL, Prisma.
+- **Cloud e DevOps:** AWS, Docker, Git, GitHub Actions e CI/CD.
 
-📌 Projetos em destaque
-Grid Motors
-API para gerenciamento de veículos e reservas, desenvolvida com foco em organização do backend, persistência de dados, autenticação e testes.
+## Projetos em destaque
 
-Tecnologias: NestJS · TypeScript · Prisma · PostgreSQL · Docker · JWT · Swagger · Jest · GitHub Actions.
-Assistente de RH com IA
-Aplicação de consulta a documentos utilizando arquitetura RAG, embeddings e modelos de linguagem executados localmente.
+**Grid Motors API**
 
-Tecnologias: Python · Streamlit · LangChain · FAISS · Ollama · LLMs.
+API para gerenciamento de veículos e reservas, com foco em arquitetura backend, persistência, autenticação, testes e documentação.
 
-📚 Aprendizado contínuo
-Atualmente estou aprofundando meus conhecimentos em:
-- Engenharia de software e arquitetura de aplicações.
-- Desenvolvimento backend com Python e Node.js.
-- APIs REST e integração entre serviços.
-- Bancos de dados e persistência.
-- Aplicações baseadas em LLMs e RAG.
-- Segurança e avaliação de aplicações com IA.
-- AWS e computação em nuvem.
-- Docker, CI/CD e boas práticas de desenvolvimento.
+Tecnologias: NestJS, TypeScript, Prisma, PostgreSQL, Docker, JWT, Swagger e Jest.
 
-🎯 Objetivo profissional
-Busco oportunidades como Desenvolvedora Backend Júnior, contribuindo com equipes de desenvolvimento na construção e evolução de aplicações, APIs e soluções orientadas a dados.
+**Assistente de RH com IA**
 
-Quero aplicar minha experiência anterior em TI, consolidar meus conhecimentos em desenvolvimento de software e continuar evoluindo em cloud, integração de serviços e aplicações com Inteligência Artificial.
+Aplicação de consulta a documentos utilizando RAG, embeddings e modelos de linguagem executados localmente.
+
+Tecnologias: Python, Streamlit, LangChain, FAISS e Ollama.
+
+**SLMBench-Access**
+
+Projeto de avaliação de modelos de linguagem pequenos (SLMs) aplicados a cenários de acessibilidade, com foco em execução local e análise de resultados.
+
+## Aprendizado contínuo
+
+Aprofundando conhecimentos em engenharia de software, arquitetura de aplicações, APIs, segurança, cloud e integração de Inteligência Artificial.
+
+## Objetivo profissional
+
+Busco oportunidades como Desenvolvedora Júnior, contribuindo com minha experiência em TI, capacidade analítica e conhecimentos em desenvolvimento de software, enquanto evoluo tecnicamente e colaboro na construção de soluções de valor.
+
